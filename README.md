@@ -1,8 +1,8 @@
 # JioCinema-UI-Figma
 
-Check the Figma here : https://www.figma.com/file/P9d5aJ0y4OMWyIL1rhFHUp/Jio-Cinema?type=design&node-id=0%3A1&mode=design&t=nziGdQQL2bY6uzyy-1
-
 Step into a world where IPL isn't just watched, it's felt. My Figma UI, inspired by Jio Cinema, turns every match into a visual spectacle. Be where the action is, in style and clarity."
+
+Check the Figma here : https://www.figma.com/file/P9d5aJ0y4OMWyIL1rhFHUp/Jio-Cinema?type=design&node-id=0%3A1&mode=design&t=nziGdQQL2bY6uzyy-1
 
 <img width="1470" alt="Screenshot 2024-03-25 at 10 56 47 PM" src="https://github.com/AryanShivva/JioCinema-UI-Figma/assets/124916476/7654cf80-d8b5-413a-a26c-cac996b83caf">
 
